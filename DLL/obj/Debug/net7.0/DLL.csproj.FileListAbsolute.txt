@@ -1,0 +1,12 @@
+/Users/ahmettahirmat/Projects/demo01/DLL/bin/Debug/net7.0/DLL.deps.json
+/Users/ahmettahirmat/Projects/demo01/DLL/bin/Debug/net7.0/DLL.dll
+/Users/ahmettahirmat/Projects/demo01/DLL/bin/Debug/net7.0/DLL.pdb
+/Users/ahmettahirmat/Projects/demo01/DLL/obj/Debug/net7.0/DLL.csproj.AssemblyReference.cache
+/Users/ahmettahirmat/Projects/demo01/DLL/obj/Debug/net7.0/DLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmettahirmat/Projects/demo01/DLL/obj/Debug/net7.0/DLL.AssemblyInfoInputs.cache
+/Users/ahmettahirmat/Projects/demo01/DLL/obj/Debug/net7.0/DLL.AssemblyInfo.cs
+/Users/ahmettahirmat/Projects/demo01/DLL/obj/Debug/net7.0/DLL.csproj.CoreCompileInputs.cache
+/Users/ahmettahirmat/Projects/demo01/DLL/obj/Debug/net7.0/DLL.dll
+/Users/ahmettahirmat/Projects/demo01/DLL/obj/Debug/net7.0/refint/DLL.dll
+/Users/ahmettahirmat/Projects/demo01/DLL/obj/Debug/net7.0/DLL.pdb
+/Users/ahmettahirmat/Projects/demo01/DLL/obj/Debug/net7.0/ref/DLL.dll

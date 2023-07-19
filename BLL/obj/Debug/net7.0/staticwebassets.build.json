@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "RUVa3qe267xj6rlvGE4UzFk0IIMGZVvm2DzH+wwiJHM=",
+  "Source": "BLL",
+  "BasePath": "_content/BLL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/ahmettahirmat/Projects/demo01/DTO/DTO.csproj",
+      "Version": 2,
+      "Source": "DTO",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
