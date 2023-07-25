@@ -1,6 +1,6 @@
 #  This project is an MVC project running on C#. #
 
-## The project establishes a connection with a database running locally within the computer and provides CRUD operations through Api requests. ##
+## The project establishes a connection with a database running locally with in the computer and provides CRUD operations through Api requests. ##
 
 In order for the user to perform API operations, he must first post himself with the admin and password hidden in the database. If it cannot verify, it cannot take any action.
 
